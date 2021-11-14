@@ -1,0 +1,78 @@
+
+
+body{
+   
+ background-image: url( https://1.bp.blogspot.com/-dF8V4oRbZjw/V7eeIToypqI/AAAAAAAAAOU/W4WCeVwwKccn07B0LX92pK-_v1YgosIXwCLcB/s1920/papeldeparede-gratis-jogos-hd%2B%25283%2529.jpg);
+ font-family:arial;
+}
+
+h2, h4 {
+    text-align: center;
+    color: black;
+
+}
+a {
+   text-decoration: none;
+   color: white;
+}
+
+a:hover {
+    text-decoration: none;
+    color: white;
+ }
+
+.banner-home { 
+    
+text-align: left;
+    position: absolute;
+ left:20%;
+ transform: translateX(-25%);
+
+
+}
+
+.conteudo{
+    margin: auto;
+    margin-top: 200px;
+    padding: 40px;
+    width: 500px;
+     border-radius: 40px;
+     box-shadow: 5px 5px 20x black;
+
+    background-color: white;
+}
+.botao{
+    display: grid;
+    place-content: center;
+    background-color: gold;
+    color: white;
+    padding: 10px;
+    margin-left: 40px;
+    margin-right: 40px;
+    text-decoration: none;
+    border-radius: 20px;
+    margin: auto;
+    text-transform: uppercase;
+    width: 150px;
+}
+  
+.botao:hover {
+    background-color: lightgreen;
+    cursor: crosshair;
+}
+h3{
+text-align-last: center;
+color: cornflowerblue;
+}
+h4{
+margin: auto;
+ margin-top: 200px;
+ background-color: white;
+ border-radius: 40px;
+ padding: 30px;
+ width: 500px;
+}
+
+p{
+    line-height: 30px;
+}
